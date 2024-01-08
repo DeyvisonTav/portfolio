@@ -83,7 +83,7 @@ export const HeroSection = ({ homeInfo }: HeroSectionProps) => {
             width={420}
             height={404}
             src={homeInfo.profilePicture.url}
-            alt="Foto de perfil do Gabriel Borges"
+            alt="Foto de perfil"
           />
         </motion.div>
       </div>
